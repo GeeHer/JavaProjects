@@ -1,0 +1,22 @@
+Nested Loops:
+    A nested loop is a loop inside another loop. Nested loops are used to solve complex problems in which
+    we have nested data or need to perform nested iterations. We can nest a for loop inside a while loop
+    or a for loop inside another for loop.
+
+Why Nested Loops:
+    As a tester we will be needing them to read excel data.
+    We will be needing them to go through multiple pages and
+    from each page we might want to go through multiple items.
+
+Syntax:
+    for(int i=0;i<10;i++){
+      for(int j=0;j<10;j++){
+      }
+    }
+
+Arrays:
+    Arrays help us store multiple objects of the same type in just one variable. They are index based data structures.
+    Every item that we store inside an array is assigned a number. That number is called an index. Whenever we want
+    to get any value from the array we provide that index.
+
+Why should we use arrays:
